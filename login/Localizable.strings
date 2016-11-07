@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  login
+
+  Created by Crowderia on 10/24/16.
+  Copyright © 2016 Crowderia. All rights reserved.
+*/
+
+//------------------ Common Titles and Lables --------------------//
+LV_EMAIL = "Email address";
+LV_PASSWORD = "Password";
+LOGIN = "Login";
+LV_FORGET_PWD = "Forgot your password ?";
+LV_FORGET_PWD = "Create Account";
