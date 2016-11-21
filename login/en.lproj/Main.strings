@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "| Email address"; ObjectID = "Dy3-pA-R66"; */
+"Dy3-pA-R66.placeholder" = "| Email address";
+
+/* Class = "UIButton"; normalTitle = "Forgot your password ?"; ObjectID = "FaU-YG-jW6"; */
+"FaU-YG-jW6.normalTitle" = "Forgot your password ?";
+
+/* Class = "UITextField"; placeholder = "| Password"; ObjectID = "LMs-zl-6mB"; */
+"LMs-zl-6mB.placeholder" = "| Password";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "O32-yH-zr2"; */
+"O32-yH-zr2.normalTitle" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "WF1-AI-Dxa"; */
+"WF1-AI-Dxa.normalTitle" = "Login";

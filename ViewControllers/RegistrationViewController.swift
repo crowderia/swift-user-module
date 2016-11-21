@@ -16,7 +16,7 @@ class RegistrationViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print(Configurations.root)
     }
 
     override func didReceiveMemoryWarning() {

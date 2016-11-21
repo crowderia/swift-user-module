@@ -43,7 +43,12 @@ class Configurations: NSObject {
         "X-Access-Token": CacheHelper.accessToken!
     ]
     
-    static let root = "http://localhost:3000/"
+    #if DEVELOPMENT
+    static let root = "http://dev.mytoz.crowderia.com/"
+    #else
+    static let root = "http://uat.mytoz.crowderia.com/"
+    #endif
+    
     static let base = root+"api/v1/"
     static let imageBase = root+"images/"
     

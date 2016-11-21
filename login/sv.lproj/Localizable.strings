@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  login
+
+  Created by Crowderia on 11/17/16.
+  Copyright © 2016 Crowderia. All rights reserved.
+*/
+
+LV_EMAIL = "E-postadress";
+LV_PASSWORD = "Lösenord";
+LOGIN = "Logga in";
+LV_FORGET_PWD = "Glömt ditt lösenord ?";
+LV_FORGET_PWD = "Skapa konto";

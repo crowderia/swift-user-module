@@ -9,6 +9,8 @@ target 'login' do
 
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '9.0'
+workspace 'login'
+link_with 'login', 'login Dev'
 use_frameworks!
 
 pod 'Bolts'
