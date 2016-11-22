@@ -45,6 +45,8 @@ class Configurations: NSObject {
     
     #if DEVELOPMENT
     static let root = "http://dev.mytoz.crowderia.com/"
+    #elseif QA
+    static let root = "http://qa.mytoz.crowderia.com/"
     #else
     static let root = "http://uat.mytoz.crowderia.com/"
     #endif

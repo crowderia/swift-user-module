@@ -29,3 +29,7 @@ end
 target 'login Dev' do
     set_pods
 end
+
+target 'login QA' do
+    set_pods
+end
